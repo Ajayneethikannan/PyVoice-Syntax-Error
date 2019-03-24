@@ -1,4 +1,4 @@
-# PyVoice-Backend
+# PyVoice
 
 The backend and atom plugin code of the PyVoice Voice to Code app,
 This app is meant to help disabled people to code easily
